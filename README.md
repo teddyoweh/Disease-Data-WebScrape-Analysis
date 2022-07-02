@@ -6,4 +6,4 @@ I was working on an NLP (Natural Language Processing) Disease Based on Symptoms 
 
 
 ## Data Source
-(./images/web.png)
+[](./images/web.png)
