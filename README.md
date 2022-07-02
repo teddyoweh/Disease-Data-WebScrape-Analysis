@@ -6,9 +6,9 @@ I was working on an NLP (Natural Language Processing) Disease Based on Symptoms 
 
 
 ## Data Source
-[webimg](./images/web.png)
+![webimg](./images/web.png)
 
 
 ## DataFrame / Result
 
-[dataimg](./images/data.png)
+![dataimg](./images/data.png)
